@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notification",Our Telegram Group
-http://indtv.online/video/video1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notification",@jiobox
-http://indtv.online/video/video2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notification",Join To Show
-http://indtv.online/video/video3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notification",Your Support
-http://indtv.online/video/video4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notification",Telegram
+https://ia801506.us.archive.org/18/items/it-mobile-tg/ARVMOBILESTG.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notification", @arvmobiles
+https://ia801506.us.archive.org/18/items/it-mobile-tg/ARVMOBILESTG.ia.mp4
 #EXTINF:-1 group-title="Telegram @arvmobiles",
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://drm.indtv.online/jiotvplus/Insight4K.mpd
